@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactApp-Portfolio/static/css/main.08a4a24d.css",
+    "main.js": "/ReactApp-Portfolio/static/js/main.bec6289a.js",
+    "static/media/web.jpg": "/ReactApp-Portfolio/static/media/web.cbee62aa89edcfdf25c3.jpg",
+    "static/media/home-main.svg": "/ReactApp-Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/ReactApp-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Yashwanth M.pdf": "/ReactApp-Portfolio/static/media/Yashwanth M.d6964bbed3065ed00012.pdf",
+    "static/media/ml.webp": "/ReactApp-Portfolio/static/media/ml.79878626f88ac9463cc2.webp",
+    "static/media/home-bg.jpg": "/ReactApp-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/my.png": "/ReactApp-Portfolio/static/media/my.cc3c3dfcff64e1272531.png",
+    "static/media/pre.svg": "/ReactApp-Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/ReactApp-Portfolio/index.html",
+    "main.08a4a24d.css.map": "/ReactApp-Portfolio/static/css/main.08a4a24d.css.map",
+    "main.bec6289a.js.map": "/ReactApp-Portfolio/static/js/main.bec6289a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08a4a24d.css",
+    "static/js/main.bec6289a.js"
+  ]
+}
